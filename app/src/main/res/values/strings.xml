@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VirginMobileTest</string>
+    <string name="rooms_fragment">Rooms</string>
+    <string name="people_fragment">People</string>
+
+
+</resources>
